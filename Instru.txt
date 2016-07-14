@@ -10,13 +10,15 @@
 # help.format html
 
 # view all configuration settings...... git@config --list
-
+####
+#@ git --bare init
+#@ ssh-keygen
+####
 # print path with git directory.... pwd
 
 # create a .file file .... mkdir yourdir, @git init,  echo 'Creating a file with .file format' > MyFile
 # To check the file... @git  status -s...... Output   ??Myfile
-
-
+#@git init {Initialize Git Repository}
 ### Git stash command
 ## @$ git stash
  #    Saved working directory and index state WIP on master: d899445 Info Added -- How To update your server

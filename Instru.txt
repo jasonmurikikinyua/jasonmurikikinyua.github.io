@@ -1,0 +1,30 @@
+###http://jasonmurikikinyua.github.io
+##
+# @Config user.email "jasongitweb@gmail.com"
+# @config user.name "Jason Muriki"
+# @config branch.autosetuprebase always
+# git@config color.ui true
+# git@config color.status auto
+# config color.branch auto
+# core.ignorecase true
+# help.format html
+
+# view all configuration settings...... git@config --list
+####
+#@ git --bare init
+#@ ssh-keygen
+####
+# print path with git directory.... pwd
+
+# create a .file file .... mkdir yourdir, @git init,  echo 'Creating a file with .file format' > MyFile
+# To check the file... @git  status -s...... Output   ??Myfile
+#@git init {Initialize Git Repository}
+### Git stash command
+## @$ git stash
+ #    Saved working directory and index state WIP on master: d899445 Info Added -- How To update your server
+ #    HEAD is now at d899445 Info Added -- How To update your server
+# To View the stashed commands, type @git stash list
+# The @git stash command hinds the earliest instructions and makes the available using @ git stash pop
+
+
+

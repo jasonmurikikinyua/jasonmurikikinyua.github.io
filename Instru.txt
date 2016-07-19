@@ -1,7 +1,6 @@
-###http://jasonmurikikinyua.github.io
+http://jasonmurikikinyua.github.io
 ##
-# @Config user.email "jasongitweb@gmail.com"
-# @config user.name "Jason Muriki"
+
 # @config branch.autosetuprebase always
 # git@config color.ui true
 # git@config color.status auto

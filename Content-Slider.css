@@ -1,6 +1,6 @@
 
 body{
-	 background-image:url(../Images/Background/Glass04.jpg);
+	 background-image:url(Glass04.jpg);
    
 }
 ul>li{
@@ -38,7 +38,7 @@ div>h3>a,div>h2>a,div>h4>a,div>a>h3,div>a>h2,div>a>h4,div>b>a,span>a>h4,span>a>h
 	  left: 0px; 
 	  width: 980px; 
 	  height: 400px; 
-	  background-image: url(../Images/Background/Metallic_Texture.jpg);
+	  background-image: url(Metallic_Texture.jpg);
 }
 #loading{
 	position: absolute; 
@@ -56,7 +56,7 @@ div>h3>a,div>h2>a,div>h4>a,div>a>h3,div>a>h2,div>a>h4,div>b>a,span>a>h4,span>a>h
 #loading-after{
 	position: absolute; 
 	display: block; 
-	background: url(../Images/Background/loading.gif) no-repeat center center;
+	background: url(loading.gif) no-repeat center center;
     top: 0px; left: 0px; width: 100%; height: 100%;
 }
 .slides-container{
@@ -132,7 +132,7 @@ div>h3>a,div>h2>a,div>h4>a,div>a>h3,div>a>h2,div>a>h4,div>b>a,span>a>h4,span>a>h
                         width: 50px;
                         height: 50px;
                         cursor: pointer;
-                        background: url(../Images/Background/Arrow.png) no-repeat;
+                        background: url(Arrow.png) no-repeat;
                         overflow: hidden;
                     }
                     .jssora07l { background-position: -5px -35px; }
